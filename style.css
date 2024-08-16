@@ -69,7 +69,7 @@ nav > div > a:hover {
     width: 100%;
     height: 858px;
     color: #ffffff;
-    background-image: url('./photo/Group 37 (1) 1.png');
+    background-image: url('../photo/Group 37 (1) 1.png');
 }
 
 .hero div {
@@ -137,7 +137,7 @@ main section div img {
     display: flex;
     width: 100%;
     height: 606px;
-    background-image: url('./photo/Group 8 1.png');
+    background-image: url('../photo/Group 8 1.png');
 }
 
 main .cards div div > p {
@@ -192,7 +192,7 @@ main .cards div div > p {
     width: 100%;
     height: 520px;
     position: relative;
-    background-image: url('./photo/Group 6 1.png');
+    background-image: url('../photo/Group 6 1.png');
 }
 
 .Order {
@@ -200,7 +200,7 @@ main .cards div div > p {
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-image: url('./photo/Group 2 1.png');
+    background-image: url('../photo/Group 2 1.png');
     height: 509px;
 }
 
